@@ -1,0 +1,166 @@
+Objective function tolerance reached at iteration  1
+
+Example: quadratic_example1
+Method: gd
+Final point: [0. 0.]
+Final objective value: 0.0
+Success flag: True
+Objective function tolerance reached at iteration  1
+
+Example: quadratic_example1
+Method: newton
+Final point: [0. 0.]
+Final objective value: 0.0
+Success flag: True
+Objective function tolerance reached at iteration  1
+
+Example: quadratic_example1
+Method: bfgs
+Final point: [0. 0.]
+Final objective value: 0.0
+Success flag: True
+Objective function tolerance reached at iteration  1
+
+Example: quadratic_example1
+Method: sr1
+Final point: [0. 0.]
+Final objective value: 0.0
+Success flag: True
+
+Example: quadratic_example2
+Method: gd
+Final point: [0.11271997 0.0008856 ]
+Final objective value: 0.012784220095399295
+Success flag: False
+Objective function tolerance reached at iteration  1
+
+Example: quadratic_example2
+Method: newton
+Final point: [0. 0.]
+Final objective value: 0.0
+Success flag: True
+
+Example: quadratic_example2
+Method: bfgs
+Final point: [0.95408354 0.00232455]
+Final objective value: 0.910815749524959
+Success flag: False
+
+Example: quadratic_example2
+Method: sr1
+Final point: [0.9540806  0.00232495]
+Final objective value: 0.9108103337371596
+Success flag: False
+
+Example: quadratic_example3
+Method: gd
+Final point: [0.07682763 0.13062022]
+Final objective value: 0.023112584192700434
+Success flag: False
+Objective function tolerance reached at iteration  1
+
+Example: quadratic_example3
+Method: newton
+Final point: [2.95822839e-31 4.93038066e-31]
+Final objective value: 3.3985709951003985e-61
+Success flag: True
+
+Example: quadratic_example3
+Method: bfgs
+Final point: [0.65404021 1.12737363]
+Final objective value: 1.6994769861889876
+Success flag: False
+
+Example: quadratic_example3
+Method: sr1
+Final point: [0.65401815 1.12732201]
+Final objective value: 1.69933536701795
+Success flag: False
+Objective function tolerance reached at iteration  0
+
+Example: rosenbrock_function
+Method: gd
+Final point: [-1.38671875  1.8046875 ]
+Final objective value: 7.095948317088187
+Success flag: True
+Objective function tolerance reached at iteration  0
+
+Example: rosenbrock_function
+Method: newton
+Final point: [-1.01005025  1.0201005 ]
+Final objective value: 4.040303032827961
+Success flag: True
+Objective function tolerance reached at iteration  0
+
+Example: rosenbrock_function
+Method: bfgs
+Final point: [-1.38671875  1.8046875 ]
+Final objective value: 7.095948317088187
+Success flag: True
+Objective function tolerance reached at iteration  0
+
+Example: rosenbrock_function
+Method: sr1
+Final point: [-1.38671875  1.8046875 ]
+Final objective value: 7.095948317088187
+Success flag: True
+Line search did not converge
+Line search did not converge at iteration  0
+
+Example: linear_function
+Method: gd
+Final point: [1. 1.]
+Final objective value: 5.0
+Success flag: False
+Line search did not converge
+Line search did not converge at iteration  0
+
+Example: linear_function
+Method: newton
+Final point: [1. 1.]
+Final objective value: 5.0
+Success flag: False
+Line search did not converge
+Line search did not converge at iteration  0
+
+Example: linear_function
+Method: bfgs
+Final point: [1. 1.]
+Final objective value: 5.0
+Success flag: False
+Line search did not converge
+Line search did not converge at iteration  0
+
+Example: linear_function
+Method: sr1
+Final point: [1. 1.]
+Final objective value: 5.0
+Success flag: False
+Objective function tolerance reached at iteration  31
+
+Example: smooth_corner_triangles
+Method: gd
+Final point: [-3.46573369e-01  8.29745804e-08]
+Final objective value: 2.5592666966583177
+Success flag: True
+Objective function tolerance reached at iteration  8
+
+Example: smooth_corner_triangles
+Method: newton
+Final point: [-3.46573590e-01 -7.26375117e-18]
+Final objective value: 2.5592666966582156
+Success flag: True
+
+Example: smooth_corner_triangles
+Method: bfgs
+Final point: [-0.34620783 -0.00052533]
+Final objective value: 2.5592684575802416
+Success flag: False
+Zoom did not converge
+Line search did not converge at iteration  3
+
+Example: smooth_corner_triangles
+Method: sr1
+Final point: [ 0.68769844 -0.00159416]
+Final objective value: 4.054614124158
+Success flag: False
